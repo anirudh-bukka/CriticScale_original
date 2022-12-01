@@ -1,0 +1,32 @@
+/* .cardw{
+    width:33%;
+    box-shadow: 5px 5px 15px rgb(158, 151, 151), -5px -5px 15px rgb(158, 151, 151);
+
+}
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cas{
+    margin-left: 50px;
+}
+.widt{
+    width:150%;
+}
+.submit{
+    margin-left:30%;
+} */
+
+.con{
+    height:84vh;
+  /* width:100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.cardi{
+    width:50%;
+}

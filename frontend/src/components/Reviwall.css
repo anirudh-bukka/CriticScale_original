@@ -1,0 +1,41 @@
+.rev{
+    position:absolute;
+    top:20%; 
+    left:0%;
+    z-index:10;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    width:80VW;
+    height:60vh;
+    border:1px solid red;
+}
+.rev .review-block {
+    grid-column: span 4;
+}
+
+Button {
+    /* background: linear-gradient(45deg,#fcaf3b,#f25c2a); */
+    background-image: linear-gradient(to bottom, #00BC7E, #108775);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+    border: none;
+    width: 100px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+/* .MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    
+}
+
+
+li {
+    list-style-type: none;
+}
+
+.LinksList .EachYear {
+    padding: 1rem;
+} */

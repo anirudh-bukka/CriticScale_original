@@ -1,0 +1,16 @@
+.con{
+  height:84vh;
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.cardi{
+  width:50%;
+}
+
+.LoginBox {
+  background-image: linear-gradient(to bottom, #00BC7E, #108775);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
